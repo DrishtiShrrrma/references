@@ -13,3 +13,4 @@ Alt projects:
 
 3. https://medium.com/@kram254/running-mixture-of-agents-on-groq-with-streamlit-on-localhost-90b5fec4d35c
 4. https://github.com/kram254/LinkedIn-Automation-CrewAI/tree/main
+5. https://vijaykumarkartha.medium.com/multiple-ai-agents-creating-multi-agent-workflows-using-langgraph-and-langchain-0587406ec4e6
