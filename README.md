@@ -13,3 +13,4 @@ Alt projects:
 4. https://github.com/kram254/LinkedIn-Automation-CrewAI/tree/main 
 5. https://vijaykumarkartha.medium.com/multiple-ai-agents-creating-multi-agent-workflows-using-langgraph-and-langchain-0587406ec4e6
 6. https://github.com/twy80/LangChain_llm_Agent/tree/main
+7. interesting work: https://diff-eqn.streamlit.app/
