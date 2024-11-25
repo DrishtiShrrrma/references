@@ -15,3 +15,11 @@ Alt projects:
 6. https://github.com/twy80/LangChain_llm_Agent/tree/main
 7. interesting work: https://diff-eqn.streamlit.app/
 8. https://huggingface.co/spaces/ccchian/Multi_agent_debate
+9. https://huggingface.co/spaces/bstraehle/multi-agent-ai-crewai
+10. https://huggingface.co/spaces/bstraehle/multi-agent-ai-autogen-coding  or https://huggingface.co/spaces/harry85/multi-agent-ai-autogen-coding
+11. https://huggingface.co/spaces/bstraehle/multi-agent-ai-langgraph
+12. https://huggingface.co/spaces/prithvi26/fitness_multiagent
+
+
+deprioritize:
+14. https://huggingface.co/spaces/pratikshahp/Multi-agent-weather-app
