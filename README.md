@@ -22,5 +22,6 @@ Alt projects:
 
 
 deprioritize:
+
 14. https://huggingface.co/spaces/pratikshahp/Multi-agent-weather-app
 10. https://huggingface.co/spaces/bstraehle/multi-agent-ai-autogen-coding  or https://huggingface.co/spaces/harry85/multi-agent-ai-autogen-coding
