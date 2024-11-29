@@ -18,6 +18,7 @@ Alt projects:
 9. https://huggingface.co/spaces/bstraehle/multi-agent-ai-crewai
 10. https://huggingface.co/spaces/bstraehle/multi-agent-ai-langgraph
 11. https://huggingface.co/spaces/prithvi26/fitness_multiagent
+12. https://www.youtube.com/watch?v=-_vKVIbH2TI - super mini project
 
 
 
